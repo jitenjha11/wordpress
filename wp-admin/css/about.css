@@ -445,7 +445,7 @@
 
 	.about__section.has-2-columns .column:nth-of-type(n) {
 		padding-top: 16px;
-		padding-bottom: 16px;
+		padding-bottom: 20px;
 	}
 }
 
